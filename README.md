@@ -24,8 +24,9 @@
 | 行程规划   | 3w   | 行程的安排、顺序调整、分享、一键复制 | w14 w15 w16 |
 
 ## Production Document
-（组员请看teambition）
-PRD 3.0
+* [PRD](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md)
+* [低保真](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/low-fidelity.md)
+
 
 
 
