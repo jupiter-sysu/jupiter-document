@@ -32,7 +32,7 @@
 * requirement-specification 需求规格说明书
 
   >- [Usecase-diagram用例图](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/usecase.md)
-  >- Use-case用例
+  >- [Usecase用例](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/usecasedoc.md)
 * Design
   >- [迭代1原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
   
