@@ -35,6 +35,8 @@
   >- [Usecase用例](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/usecasedoc.md)
 * Design
   >- [迭代1原型文件](https://pan.baidu.com/s/1LtsWomA5lpZ50qMbJgSygg) UI原型文件【密码：ak7k】（必须手动下载才能预览）
+  >- [领域模型](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/domainModel.md)
+  >- [数据库模型](https://github.com/jupiter-sysu/jupiter-document/blob/master/docs/dbModel.md)
   
 * Style guide 格式规范
   >- [前端格式规范](https://zhuanlan.zhihu.com/p/20616464)
